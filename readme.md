@@ -15,4 +15,4 @@ git status - allows us to view the file status at any given time
 
 
 your computer = local
-github = remote
+github = remote / origin
