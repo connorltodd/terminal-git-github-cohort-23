@@ -1,5 +1,10 @@
 Terminal Commands
-
+cd - allows us to change into child directories
+cd .. - allows us to change into parent directories
+ls - allows us to list files and folders in the directory we are in
+mkdir - creates a new directory
+touch - allows us to create new files
+code . - allows us to open the directory we are in and use VS code
 
 Git Commands
 git init - setups git tracking on our project
